@@ -1,2 +1,2 @@
 # Hello_world-
-My first repository on GitHub.
+Hello My name is Sagas Kipkemboi ready to learn Generative AI 
